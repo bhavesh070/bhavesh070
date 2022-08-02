@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Aman-red)]()
-[![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amankumarsinghdeveloper/)](https://www.linkedin.com/in/amankumarsinghdeveloper/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bhavesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavesh-kamriya-0b5186218/)](https://www.linkedin.com/in/bhavesh-kamriya-0b5186218/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aman-green)](https://amankumarsinghdeveloper.github.io/profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aman-yellow)](https://stackoverflow.com/users/19611309/aman-kumar-singh)
 
