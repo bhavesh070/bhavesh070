@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Bhavesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavesh-kamriya-0b5186218/)](https://www.linkedin.com/in/bhavesh-kamriya-0b5186218/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Bhavesh-green)](#)
 [![Instagram Badge](https://img.shields.io/badge/Insta-Bhavesh-red)](https://www.instagram.com/bhavesh_xyz/)
+[![Website Badge](https://img.shields.io/badge/Leetcode-Bhavesh-green)](https://leetcode.com/bhavesh_xyz/)
 [![Stach Badge](https://img.shields.io/badge/StackOverflow-Bhavesh-yellow)](https://stackoverflow.com/users/19611309/aman-kumar-singh)
 
 I'm
